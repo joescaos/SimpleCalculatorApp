@@ -1,0 +1,7 @@
+#Fri Aug 21 11:28:56 COT 2020
+base.0=E\:\\Coding\\Coursera_courses\\Android development with Java\\1. Java for Android\\4. WEEK\\m8-assignment-calculator-skeleton\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\Coding\\Coursera_courses\\Android development with Java\\1. Java for Android\\4. WEEK\\m8-assignment-calculator-skeleton\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
